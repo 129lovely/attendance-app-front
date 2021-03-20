@@ -1,0 +1,12 @@
+{
+  "root": true,
+  "extends": [
+    "@react-native-community",
+    "prettier",
+    "plugin:prettier/recommended",
+    "eslint:recommended"
+  ],
+  "rules": {
+    "no-unused-vars": 1
+  }
+}
